@@ -1,0 +1,252 @@
+# Translation of Plugins - Performance Lab - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Performance Lab - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-08 17:02:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Performance Lab - Stable (latest release)\n"
+
+#: modules/site-health/webp-support/load.php:55
+msgid "Your site does not support WebP"
+msgstr "Your site does not support WebP"
+
+#: modules/site-health/webp-support/load.php:37
+msgid "Your site supports WebP"
+msgstr "Your site supports WebP"
+
+#: modules/site-health/webp-support/load.php:21
+msgid "WebP Support"
+msgstr "WebP Support"
+
+#. translators: 1: Number of enqueued styles. 2.Styles size.
+#: modules/site-health/audit-enqueued-assets/load.php:290
+msgid "Your website enqueues %1$s style (size: %2$s). Try to reduce the number or to concatenate them."
+msgid_plural "Your website enqueues %1$s styles (size: %2$s). Try to reduce the number or to concatenate them."
+msgstr[0] "Your website enqueues %1$s style (size: %2$s). Try to reduce the number or to concatenate them."
+msgstr[1] "Your website enqueues %1$s styles (size: %2$s). Try to reduce the number or to concatenate them."
+
+#. translators: 1: Number of enqueued styles. 2.Styles size.
+#: modules/site-health/audit-enqueued-assets/load.php:249
+msgid "The amount of %1$s enqueued style (size: %2$s) is acceptable."
+msgid_plural "The amount of %1$s enqueued styles (size: %2$s) is acceptable."
+msgstr[0] "The amount of %1$s enqueued style (size: %2$s) is acceptable."
+msgstr[1] "The amount of %1$s enqueued styles (size: %2$s) is acceptable."
+
+#: modules/site-health/audit-enqueued-assets/load.php:238
+msgid "Enqueued styles"
+msgstr "Enqueued styles"
+
+#: modules/site-health/audit-enqueued-assets/load.php:215
+#: modules/site-health/audit-enqueued-assets/load.php:308
+msgid "Clean Test Cache"
+msgstr "Clean Test Cache"
+
+#: modules/site-health/audit-enqueued-assets/load.php:212
+#: modules/site-health/audit-enqueued-assets/load.php:305
+msgid "https://wordpress.org/support/article/optimization/"
+msgstr "https://wordpress.org/support/article/optimization/"
+
+#. translators: 1: Number of enqueued styles. 2.Styles size.
+#: modules/site-health/audit-enqueued-assets/load.php:197
+msgid "Your website enqueues %1$s script (size: %2$s). Try to reduce the number or to concatenate them."
+msgid_plural "Your website enqueues %1$s scripts (size: %2$s). Try to reduce the number or to concatenate them."
+msgstr[0] "Your website enqueues %1$s script (size: %2$s). Try to reduce the number or to concatenate them."
+msgstr[1] "Your website enqueues %1$s scripts (size: %2$s). Try to reduce the number or to concatenate them."
+
+#. translators: 1: Number of enqueued styles. 2.Styles size.
+#: modules/site-health/audit-enqueued-assets/load.php:155
+msgid "The amount of %1$s enqueued script (size: %2$s) is acceptable."
+msgid_plural "The amount of %1$s enqueued scripts (size: %2$s) is acceptable."
+msgstr[0] "The amount of %1$s enqueued script (size: %2$s) is acceptable."
+msgstr[1] "The amount of %1$s enqueued scripts (size: %2$s) is acceptable."
+
+#: modules/site-health/audit-enqueued-assets/load.php:144
+msgid "Enqueued scripts"
+msgstr "Enqueued scripts"
+
+#: modules/site-health/audit-enqueued-assets/load.php:119
+msgid "CSS assets"
+msgstr "CSS assets"
+
+#: modules/site-health/audit-enqueued-assets/load.php:115
+msgid "JS assets"
+msgstr "JS assets"
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:111
+msgid "You should use a persistent object cache"
+msgstr "You should use a persistent object cache"
+
+#. translators: Available object caching services.
+#: modules/object-cache/persistent-object-cache-health-check/load.php:90
+msgid "Your host appears to support the following object caching services: %s."
+msgstr "Your host appears to support the following object caching services: %s."
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:78
+msgid "A persistent object cache is not required"
+msgstr "A persistent object cache is not required"
+
+#. translators: Accessibility text.
+#: modules/object-cache/persistent-object-cache-health-check/load.php:69
+msgid "(opens in a new tab)"
+msgstr "(opens in a new tab)"
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:67
+msgid "Learn more about persistent object caching."
+msgstr "Learn more about persistent object caching."
+
+#: modules/object-cache/persistent-object-cache-health-check/load.php:59
+msgid "A persistent object cache is being used"
+msgstr "A persistent object cache is being used"
+
+#. translators: Localized Support reference.
+#: modules/object-cache/persistent-object-cache-health-check/load.php:49
+msgid "https://wordpress.org/support/article/optimization/#object-caching"
+msgstr "https://wordpress.org/support/article/optimization/#object-caching"
+
+#: modules/images/webp-uploads/helper.php:153
+msgid "The file key is not present on the image data"
+msgstr "The file key is not present on the image data"
+
+#: modules/images/webp-uploads/helper.php:109
+msgid "The provided mime type is not supported."
+msgstr "The provided mime type is not supported."
+
+#: modules/images/webp-uploads/helper.php:105
+msgid "The provided mime type is not allowed."
+msgstr "The provided mime type is not allowed."
+
+#: modules/images/webp-uploads/helper.php:186
+msgid "The image does not have a valid metadata."
+msgstr "The image does not have a valid metadata."
+
+#: module-i18n.php:7
+msgctxt "module description"
+msgid "Adds a WebP support check in Site Health status."
+msgstr "Adds a WebP support check in Site Health status."
+
+#: module-i18n.php:6
+msgctxt "module name"
+msgid "WebP Support"
+msgstr "WebP Support"
+
+#: module-i18n.php:11
+msgctxt "module description"
+msgid "Adds a CSS and JS resource check in Site Health status."
+msgstr "Adds a CSS and JS resource check in Site Health status."
+
+#: module-i18n.php:10
+msgctxt "module name"
+msgid "Audit Enqueued Assets"
+msgstr "Audit Enqueued Assets"
+
+#: module-i18n.php:13
+msgctxt "module description"
+msgid "Adds a persistent object cache check for sites with non-trivial amounts of data in Site Health status."
+msgstr "Adds a persistent object cache check for sites with non-trivial amounts of data in Site Health status."
+
+#: module-i18n.php:12
+msgctxt "module name"
+msgid "Persistent Object Cache Health Check"
+msgstr "Persistent Object Cache Health Check"
+
+#: module-i18n.php:5
+msgctxt "module description"
+msgid "Creates WebP versions for new JPEG image uploads if supported by the server."
+msgstr "Creates WebP versions for new JPEG image uploads if supported by the server."
+
+#: module-i18n.php:4
+msgctxt "module name"
+msgid "WebP Uploads"
+msgstr "WebP Uploads"
+
+#: admin/load.php:436
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/load.php:388
+msgid "Settings > Performance"
+msgstr "Settings > Performance"
+
+#. translators: %s: settings page link
+#: admin/load.php:387
+msgid "You can now test upcoming WordPress performance features. Open %s to individually toggle the performance features included in the plugin."
+msgstr "You can now test upcoming WordPress performance features. Open %s to individually toggle the performance features included in the plugin."
+
+#: admin/load.php:185
+msgid "Object Cache"
+msgstr "Object Cache"
+
+#: admin/load.php:182
+msgid "Measurement"
+msgstr "Measurement"
+
+#: admin/load.php:179
+msgid "Site Health"
+msgstr "Site Health"
+
+#: admin/load.php:176
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: admin/load.php:173
+msgid "Images"
+msgstr "Images"
+
+#. translators: %s: module name
+#: admin/load.php:149
+msgid "Enable %s"
+msgstr "Enable %s"
+
+#. translators: %s: module name
+#: admin/load.php:143
+msgid "Enable %s <strong>(experimental)</strong>"
+msgstr "Enable %s <strong>(experimental)</strong>"
+
+#: admin/load.php:57
+msgid "Other"
+msgstr "Other"
+
+#: admin/load.php:21
+#: modules/object-cache/persistent-object-cache-health-check/load.php:56
+#: modules/site-health/audit-autoloaded-options/load.php:46
+#: modules/site-health/audit-enqueued-assets/load.php:147
+#: modules/site-health/audit-enqueued-assets/load.php:241
+#: modules/site-health/webp-support/load.php:40
+msgid "Performance"
+msgstr "Performance"
+
+#: admin/load.php:20 admin/load.php:107
+msgid "Performance Modules"
+msgstr "Performance Modules"
+
+#. Author URI of the plugin
+msgid "https://make.wordpress.org/core/tag/performance/"
+msgstr "https://make.wordpress.org/core/tag/performance/"
+
+#. Author of the plugin
+msgid "WordPress Performance Group"
+msgstr "WordPress Performance Group"
+
+#. Description of the plugin
+msgid "Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules."
+msgstr "Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/performance"
+msgstr "https://github.com/WordPress/performance"
+
+#. Plugin Name of the plugin
+#: admin/load.php:378
+msgid "Performance Lab"
+msgstr "Performance Lab"
+
+#: modules/site-health/audit-autoloaded-options/load.php:95
+#: modules/site-health/audit-enqueued-assets/load.php:213
+#: modules/site-health/audit-enqueued-assets/load.php:306
+msgid "More info about performance optimization"
+msgstr "More info about performance optimisation"

@@ -1,0 +1,21 @@
+
+---Downloaded files---
+The import files for: Electro - Home v11 WP Bakery Page Builder were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://allbun.ro
+Data file = /opt/bitnami/wordpress/wp-content/themes/electro/assets/dummy-data/home-v11/vc-dummy-data.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+electro_options -> /opt/bitnami/wordpress/wp-content/themes/electro/assets/dummy-data/home-v11/redux-options.json 
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---ocdi/after_import---
+

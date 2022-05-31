@@ -1,0 +1,9 @@
+2022-05-09T13:51:37+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/769394.cloudwaysapps.com/xagxevqvpb/public_html/wp-content/plugins/translatepress-business/add-ons-pro/deepl/includes/class-deepl-machine-translator.php:198
+Stack trace:
+#0 /home/769394.cloudwaysapps.com/xagxevqvpb/public_html/wp-content/plugins/translatepress-multilingual/includes/class-machine-translator.php(79): TRP_IN_Deepl_Machine_Translator->check_formality()
+#1 /home/769394.cloudwaysapps.com/xagxevqvpb/public_html/wp-content/plugins/translatepress-multilingual/includes/class-machine-translation-tab.php(79): TRP_Machine_Translator->check_languages_availability()
+#2 /home/769394.cloudwaysapps.com/xagxevqvpb/public_html/wp-includes/class-wp-hook.php(309): TRP_Machine_Translation_Tab->sanitize_settings()
+#3 /home/769394.cloudwaysapps.com/xagxevqvpb/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters()
+#4 /home/769394.cloudwaysapps.com/xagxevqvpb/public_html/wp-includes/formatting.php(4976): apply_filters()
+#5 /home/769394.clou in /home/769394.cloudwaysapps.com/xagxevqvpb/public_html/wp-content/plugins/translatepress-business/add-ons-pro/deepl/includes/class-deepl-machine-translator.php on line 198
+

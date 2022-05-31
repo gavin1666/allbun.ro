@@ -1,0 +1,7 @@
+a:4:{s:3:"row";i:1;s:7:"message";s:34:"> Category skipped - already exist";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:2;s:7:"message";s:62:"A term with the name provided already exists with this parent.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:3;s:7:"message";s:31:"Category imported successfully.";s:6:"status";b:1;s:7:"post_id";i:490;}
+a:4:{s:3:"row";i:4;s:7:"message";s:31:"Category imported successfully.";s:6:"status";b:1;s:7:"post_id";i:491;}
+a:4:{s:3:"row";i:5;s:7:"message";s:31:"Category imported successfully.";s:6:"status";b:1;s:7:"post_id";i:492;}
+a:4:{s:3:"row";i:6;s:7:"message";s:31:"Category imported successfully.";s:6:"status";b:1;s:7:"post_id";i:493;}
+a:4:{s:3:"row";i:7;s:7:"message";s:31:"Category imported successfully.";s:6:"status";b:1;s:7:"post_id";i:494;}

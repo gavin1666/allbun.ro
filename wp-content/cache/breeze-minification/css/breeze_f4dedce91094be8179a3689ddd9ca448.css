@@ -1,0 +1,1 @@
+.blink_me{animation:blinker .5s linear infinite;font-size:15px}@keyframes blinker{50%{opacity:0}}.mega-info-list li:first-child{padding-top:0 !important}

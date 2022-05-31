@@ -1,0 +1,35 @@
+# Copyright (C) 2020 Kartik Parmar
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bulk WooCommerce Category Creator 1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bulk-woocommerce-category-creator\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-03T21:59:21+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: bulk-woocommerce-category-creator\n"
+
+#. Plugin Name of the plugin
+msgid "Bulk WooCommerce Category Creator"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://kartechify.com/product/bulk-woocommerce-category-creator/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin to create multiple WooCommerce categories in one go. You can create categories in Parent>>Child hierarchy. It also lets you assign the created categories to the selected products."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kartik Parmar"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://twitter.com/kartikparmar19"
+msgstr ""

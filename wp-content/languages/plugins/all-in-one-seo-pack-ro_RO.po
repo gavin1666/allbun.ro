@@ -1,0 +1,1322 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in Romanian
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-29 14:17:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && n % 100 <= 19) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-rc.3\n"
+"Language: ro\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#: app/Common/Api/Plugins.php:75
+msgid "Plugin update failed. Please check permissions and try again."
+msgstr "Actualizarea modulului a eșuat. Te rog verifică permisiunile și încearcă din nou."
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:37
+msgid "Back to Homepage"
+msgstr "Înapoi la prima pagină"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:32
+msgid "Whoops!"
+msgstr "Hopa!"
+
+#: app/Common/Views/sitemap/xsl/styles.php:103
+msgid "Back"
+msgstr "Înapoi"
+
+#. Translators: 1 - The "start-end" pagination results, 2 - Total items.
+#: app/Common/Views/sitemap/xsl/partials/pagination.php:42
+msgid "Showing %1$s of %2$s"
+msgstr "Arăt %1$s din %2$s"
+
+#: app/Common/Views/sitemap/xsl/default.php:279
+msgid "Images"
+msgstr "Imagini"
+
+#: app/Common/Api/Tools.php:216
+msgid ".htaccess file is empty."
+msgstr "Fișierul .htaccess este gol."
+
+#: app/Common/Views/sitemap/xsl/default.php:199
+msgid "Publication Date"
+msgstr "Data publicării"
+
+#: app/Common/Views/sitemap/html/widget-options.php:167
+msgid "Enter a comma-separated list of term IDs."
+msgstr "Introdu o listă cu ID-uri termeni, separate cu virgulă."
+
+#: app/Common/Views/sitemap/html/widget-options.php:153
+msgid "Enter a comma-separated list of post IDs."
+msgstr "Introdu o listă cu ID-uri articole, separate cu virgulă."
+
+#: app/Common/Views/sitemap/html/widget-options.php:63
+msgid "Show Publication Date"
+msgstr "Arată data publicării"
+
+#: app/Common/Views/sitemap/html/widget-options.php:47
+msgid "Show Labels"
+msgstr "Arată etichetele"
+
+#: app/Common/Views/sitemap/html/widget-options.php:31
+msgid "Compact Archives"
+msgstr "Arhive compacte"
+
+#: app/Common/Views/sitemap/html/compact-archive.php:7
+msgid "No date archives could be found."
+msgstr "Nu am găsit nicio arhivă de date."
+
+#: app/Common/Admin/Admin.php:663
+msgid "Redirection Manager"
+msgstr "Manager de redirecționări"
+
+#: app/Common/Utils/Tags.php:315
+msgid "The first name of the post author."
+msgstr "Prenumele autorului articolului."
+
+#: app/Common/Utils/Tags.php:310
+msgid "The display name of the post author."
+msgstr "Numele de afișat pentru autorul articolului."
+
+#: app/init/notices.php:225
+msgid "Heads up!"
+msgstr "Atenție!"
+
+#: app/Common/Utils/Tags.php:976
+msgid "Sample Custom Field Value"
+msgstr "Exemplu valoare câmp personalizat"
+
+#: app/Common/Utils/Tags.php:974
+msgid "Example search string"
+msgstr "Exemplu pentru șir de căutare"
+
+#: app/Common/Utils/Tags.php:926
+msgid "Sample Archive Title"
+msgstr "Exemplu pentru titlu arhivă"
+
+#: app/Common/Utils/Tags.php:906
+msgid "Sample taxonomy description"
+msgstr "Exemplu descriere taxonomie"
+
+#: app/Common/Utils/Tags.php:886
+msgid "Sample Taxonomy Title"
+msgstr "Exemplu pentru titlu taxonomie"
+
+#: app/Common/Utils/Tags.php:881
+msgid "An example of content from your page/post."
+msgstr "Un exemplu de conținut din pagina ta/articolul tău."
+
+#: app/Common/Utils/Tags.php:869 app/Common/Utils/Tags.php:872
+msgid "Sample excerpt from a page/post."
+msgstr "Exemplu de rezumat dintr-o pagină/dintr-un articol."
+
+#: app/Common/Utils/Tags.php:822
+msgid "Sample Parent"
+msgstr "Părinte exemplu"
+
+#: app/Common/Utils/Tags.php:819
+msgid "Sample Post"
+msgstr "Exemplu de articol"
+
+#: app/Common/Utils/Tags.php:804
+msgid "Sample caption for media."
+msgstr "Exemplu de text asociat pentru media."
+
+#: app/Common/Utils/Tags.php:799
+msgid "A sample alt tag for your image"
+msgstr "Un exemplu de tag alt pentru imaginea ta"
+
+#: app/Common/Utils/Tags.php:522
+msgid "The meta description for the current page/post."
+msgstr "Descrierea meta pentru pagina curentă/articolul curent."
+
+#: app/Common/Utils/Tags.php:515
+msgid "Taxonomy Name"
+msgstr "Nume taxonomie"
+
+#: app/Common/Utils/Tags.php:511
+msgid "The term the user is searching for."
+msgstr "Termenul pe care îl caută utilizatorul."
+
+#: app/Common/Utils/Tags.php:510
+msgid "Search Term"
+msgstr "Termen de căutare"
+
+#: app/Common/Utils/Tags.php:505
+msgid "A custom field from the current page/post."
+msgstr "Un câmp personalizat din pagina curentă/articolul curent."
+
+#: app/Common/Utils/Tags.php:504
+msgid "Custom Field"
+msgstr "Câmp personalizat"
+
+#: app/Common/Utils/Tags.php:500
+msgid "The tagline for your site, set in the general settings."
+msgstr "Sloganul site-ului tău, stabilit în setările generale."
+
+#: app/Common/Utils/Tags.php:499
+msgid "Tagline"
+msgstr "Slogan"
+
+#: app/Common/Utils/Tags.php:494
+msgid "The description for your site."
+msgstr "Descrierea site-ului tău."
+
+#: app/Common/Utils/Tags.php:463 app/Common/Utils/Tags.php:481
+msgid "Site Link"
+msgstr "Legătură la site"
+
+#: app/Common/Utils/Tags.php:459
+msgid "The separator defined in the search appearance settings."
+msgstr "Separatorul definit în setările Aspect în căutare. "
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Breadcrumbs/Tags.php:130 app/Common/Utils/Tags.php:454
+msgid "The original title of the current post."
+msgstr "Titlul original al articolului curent. "
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:447
+msgid "Post link (link as text)."
+msgstr "Legătură la articol (legătură ca text)."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:440
+msgid "Post link (name as text)."
+msgstr "Legătură la articol (nume ca text)."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:433
+msgid "%1$s Year"
+msgstr "An %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:427
+msgid "%1$s Month"
+msgstr "Lună %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:421
+msgid "%1$s Day"
+msgstr "Zi %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:415
+msgid "%1$s Date"
+msgstr "Dată %1$s "
+
+#: app/Common/Utils/Tags.php:410
+msgid "The date of the current archive, localized."
+msgstr "Data arhivei curente, localizată."
+
+#: app/Common/Utils/Tags.php:409
+msgid "Archive Date"
+msgstr "Dată arhivă"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:405
+msgid "The content of your page/post."
+msgstr "Conținutul paginii/articolului."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:404
+msgid "%1$s Content"
+msgstr "Conținut %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:398
+msgid "%1$s Excerpt Only"
+msgstr "Numai rezumatul %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:393
+msgid "The excerpt defined on your page/post."
+msgstr "Rezumatul definit în pagină/articol."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:392
+msgid "%1$s Excerpt"
+msgstr "Rezumat %1$s"
+
+#: app/Common/Utils/Tags.php:387
+msgid "The current year, localized."
+msgstr "Anul curent, localizat."
+
+#: app/Common/Utils/Tags.php:386
+msgid "Current Year"
+msgstr "Anul curent "
+
+#: app/Common/Utils/Tags.php:382
+msgid "The current month, localized."
+msgstr "Luna curentă, localizată."
+
+#: app/Common/Utils/Tags.php:381
+msgid "Current Month"
+msgstr "Luna curentă"
+
+#: app/Common/Utils/Tags.php:377
+msgid "The current day of the month, localized."
+msgstr "Ziua curentă a lunii, localizată."
+
+#: app/Common/Utils/Tags.php:376
+msgid "Current Day"
+msgstr "Ziua curentă"
+
+#: app/Common/Utils/Tags.php:372
+msgid "The current date, localized."
+msgstr "Data curentă, localizată."
+
+#: app/Common/Utils/Tags.php:371
+msgid "Current Date"
+msgstr "Data curentă"
+
+#: app/Common/Utils/Tags.php:367
+msgid "The page number for the current paginated page."
+msgstr "Numărul paginii pentru pagina curentă paginată."
+
+#: app/Common/Breadcrumbs/Tags.php:196 app/Common/Utils/Tags.php:366
+msgid "Page Number"
+msgstr "Număr pagină"
+
+#: app/Common/Utils/Tags.php:362
+msgid "The permalink for the current page/post."
+msgstr "Legătura permanentă pentru pagina curentă/articolul curent."
+
+#: app/Common/Breadcrumbs/Tags.php:118 app/Common/Utils/Tags.php:361
+msgid "Permalink"
+msgstr "Legătură permanentă"
+
+#. Translators: 1 - The singular name of the current taxonomy.
+#: app/Common/Utils/Tags.php:343
+msgid "Current or first category description."
+msgstr "Descrierea actuală sau a primei categorii."
+
+#. Translators: 1 - The singular name of the current taxonomy.
+#: app/Common/Utils/Tags.php:342
+msgid "%1$s Description"
+msgstr "Descriere %1$s"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:330 app/Common/Utils/Tags.php:337
+msgid "Current or first category title."
+msgstr "Titlul actual sau al primei categorii."
+
+#: app/Common/Utils/Tags.php:325
+msgid "The title of the current archive."
+msgstr "Titlul categoriei curente."
+
+#: app/Common/Utils/Tags.php:324
+msgid "Archive Title"
+msgstr "Titlu arhivă"
+
+#: app/Common/Breadcrumbs/Tags.php:161 app/Common/Utils/Tags.php:319
+msgid "Author Last Name"
+msgstr "Nume autor"
+
+#: app/Common/Breadcrumbs/Tags.php:156 app/Common/Utils/Tags.php:314
+msgid "Author First Name"
+msgstr "Prenume autor"
+
+#: app/Common/Utils/Tags.php:309
+msgid "Author Name"
+msgstr "Nume autor"
+
+#: app/Common/Utils/Tags.php:305
+msgid "The biography of the author."
+msgstr "Biografia autorului."
+
+#: app/Common/Utils/Tags.php:304
+msgid "Author Biography"
+msgstr "Biografie autor"
+
+#: app/Common/Utils/Tags.php:294
+msgid "Author Link"
+msgstr "Legătură la autor"
+
+#: app/Common/Utils/Tags.php:290
+msgid "Caption for the current media file."
+msgstr "Text asociat pentru fișierul media curent."
+
+#: app/Common/Utils/Tags.php:289
+msgid "Media Caption"
+msgstr "Text asociat pentru elementul media."
+
+#: app/Common/Utils/Tags.php:284
+msgid "Image Alt Tag"
+msgstr "Tag alt pentru imagine"
+
+#: app/Common/Options/Options.php:528
+msgid "Archives for"
+msgstr "Arhive pentru"
+
+#: app/Common/Traits/Helpers/Wp.php:184
+msgid "Attachments"
+msgstr "Atașamente"
+
+#: app/Common/Sitemap/Output.php:32
+msgid "statically"
+msgstr "static"
+
+#: app/Common/Sitemap/Sitemap.php:155
+msgid "Delete Static Files"
+msgstr "Șterge fișierele statice"
+
+#: app/Common/Api/Wizard.php:261 app/Common/Api/Wizard.php:269
+msgid "Install MonsterInsights"
+msgstr "Instalează MonsterInsights"
+
+#: app/Common/Api/Wizard.php:57
+msgid "Try Again"
+msgstr "Încearcă din nou"
+
+#: app/Common/Api/Wizard.php:53
+msgid "SEO Plugin Import Failed"
+msgstr "Importul modulului SEO a eșuat"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - The Site URL.
+#: app/Common/Api/Tools.php:100
+msgid "%1$s Debug Info from %2$s"
+msgstr "Informații de depanare %1$s de la %2$s"
+
+#: app/Common/Api/Tools.php:42 app/Common/Api/Tools.php:66
+msgid "There was an error deleting the physical robots.txt file."
+msgstr "A fost o eroare la ștergerea fizică a fișierului robots.txt."
+
+#: app/Common/Api/Tools.php:33
+msgid "There was an error importing the physical robots.txt file."
+msgstr "A fost o eroare la importul fizic al fișierului robots.txt."
+
+#: app/Common/Api/Plugins.php:126 app/Common/Api/Sitemaps.php:84
+msgid "Deactivation failed. Please check permissions and try again."
+msgstr "Dezactivarea a eșuat. Te rog verifică permisiunile și încearcă din nou."
+
+#: app/Common/Api/Plugins.php:24
+msgid "Installation failed. Please check permissions and try again."
+msgstr "Instalarea a eșuat. Te rog verifică permisiunile și încearcă din nou."
+
+#: app/Common/Api/PostsTerms.php:225
+msgid "Post ID is missing."
+msgstr "Lipsește ID-ul articolului."
+
+#: app/Common/Api/PostsTerms.php:136 app/Common/Api/PostsTerms.php:168
+msgid "No post ID was provided."
+msgstr "Nu a fost furnizat niciun ID articol."
+
+#: app/Common/ImportExport/RankMath/TitleMeta.php:406
+#: app/Common/Migration/GeneralSettings.php:737
+msgid "Invalid Phone Number for Knowledge Graph"
+msgstr "Număr de telefon nevalid pentru Knowledge Graph"
+
+#: app/Common/Migration/Helpers.php:158
+msgid "Custom field names with spaces detected"
+msgstr "Nume de câmp personalizate cu spații detectate"
+
+#: app/Common/Tools/RobotsTxt.php:363
+msgid "Physical Robots.txt File Detected"
+msgstr "Fișier fizic Robots.txt detectat"
+
+#: app/Common/Tools/SystemStatus.php:296 app/Common/Tools/SystemStatus.php:328
+msgid "needs update"
+msgstr "necesită actualizare"
+
+#: app/Common/Tools/SystemStatus.php:194
+msgid "Not Set"
+msgstr "Nu este setat"
+
+#: app/Common/Tools/SystemStatus.php:193
+msgid "MySQL SQL Mode"
+msgstr "Mod MySQL SQL"
+
+#: app/Common/Tools/SystemStatus.php:182
+msgid "unknown"
+msgstr "necunoscut"
+
+#: app/Common/Tools/SystemStatus.php:181
+msgid "Web Server"
+msgstr "Server web"
+
+#: app/Common/Tools/SystemStatus.php:121
+msgid "Constants"
+msgstr "Constante"
+
+#: app/Common/Tools/SystemStatus.php:106
+msgid "Base URL:"
+msgstr "URL de bază:"
+
+#: app/Common/Tools/SystemStatus.php:105
+msgid "Base Directory:"
+msgstr "Director de bază:"
+
+#: app/Common/Tools/SystemStatus.php:104
+msgid "Url:"
+msgstr "URL:"
+
+#: app/Common/Tools/SystemStatus.php:103
+msgid "Path:"
+msgstr "Cale:"
+
+#: app/Common/Tools/SystemStatus.php:101
+msgid "Upload Directory Info"
+msgstr "Încarcă informații despre director"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Hidden"
+msgstr "Ascuns"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Visible"
+msgstr "Vizibil"
+
+#: app/Common/Tools/SystemStatus.php:93
+msgid "Front Page Info"
+msgstr "Informații despre pagina din față"
+
+#: app/Common/Tools/SystemStatus.php:89
+msgid "User Count"
+msgstr "Număr de utilizatori"
+
+#: app/Common/Tools/SystemStatus.php:77
+msgid "Permalink Structure"
+msgstr "Structură legătură permanentă"
+
+#: app/Common/Tools/SystemStatus.php:61
+msgid "User Language"
+msgstr "Limbă utilizator"
+
+#: app/Common/Tools/SystemStatus.php:42
+msgid "Latest version:"
+msgstr "Ultima versiune:"
+
+#: app/Common/Tools/BadBotBlocker.php:223
+msgid "(Invalid IP)"
+msgstr "(IP invalid)"
+
+#. Translators: 1 - The estimated reading time.
+#: app/Common/Social/Twitter.php:239
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s minut"
+msgstr[1] "%1$s minute"
+msgstr[2] "%1$s de minute"
+
+#: app/Common/Social/Twitter.php:237
+msgid "Est. reading time"
+msgstr "Timp estimat pentru citire"
+
+#: app/Common/Social/Twitter.php:228
+msgid "Written by"
+msgstr "Scris de"
+
+#. Translators: 1 - The date the article was published on.
+#: app/Common/Schema/Graphs/NewsArticle.php:31
+msgid "Published on %1$s."
+msgstr "Publicat pe %1$s."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/PostSettings.php:168
+msgid "%1$s Settings"
+msgstr "Setări %1$s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:292
+msgid "%1$s is updated to the latest version"
+msgstr "%1$s este actualizat la ultima versiune"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:275
+msgid "%1$s needs to be updated"
+msgstr "%1$s trebuie să fie actualizat"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:52
+msgid "%1$s Schema Markup"
+msgstr "Schema Markup %1$s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:46
+msgid "%1$s Plugin Update"
+msgstr "Actualizare modul %1$s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:41
+msgid "%1$s Site Info"
+msgstr "Informații despre site-ul %1$s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:36
+msgid "%1$s Site Public"
+msgstr "Site-ul public %1$s"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/SetupWizard.php:169
+msgid "%1$s &rsaquo; Onboarding Wizard"
+msgstr "%1$s &rsaquo; Asistent de îmbarcare"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Admin/Admin.php:1171
+msgid "%1$s Score"
+msgstr "Punctaj %1$s"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Admin/Admin.php:1034
+msgid "%1$s Details"
+msgstr "Detalii %1$s"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Migration.php:45
+msgid "This notice will automatically disappear as soon as the migration has completed. Meanwhile, everything should continue to work as expected."
+msgstr "Această notificare va dispărea automat de îndată ce migrarea s-a finalizat. Între timp, totul ar trebui să continue să funcționeze conform așteptărilor."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Migration.php:44
+msgid "%1$s is currently upgrading your database and migrating your SEO data in the background."
+msgstr "%1$s actualizează acum baza de date și migrează datele SEO în fundal."
+
+#. Translators: 1 - The plugin name ("AIOSEO).
+#: app/Common/Admin/Notices/Migration.php:42
+msgid "%1$s V3->V4 Migration In Progress"
+msgstr "%1$s V3->V4 Migrație în curs de desfășurare"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Import.php:41
+msgid "This notice will automatically disappear as soon as the import has completed. Meanwhile, everything should continue to work as expected."
+msgstr "Această notificare va dispărea automat de îndată ce importul s-a finalizat. Între timp, totul ar trebui să continue să funcționeze conform așteptărilor."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Import.php:40
+msgid "%1$s is importing your existing SEO data in the background."
+msgstr "%1$s importă acum datele SEO existente în fundal."
+
+#: app/Common/Admin/Notices/Import.php:38
+msgid "SEO Meta Import In Progress"
+msgstr "Import meta SEO în curs de desfășurare"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:99
+msgid "CEO of %1$s"
+msgstr "CEO al %1$s"
+
+#: app/Common/Admin/Notices/Notices.php:589
+msgid "Deprecated Filters Detected"
+msgstr "Au fost detectate filtre învechite"
+
+#: app/Common/Admin/Notices/Notices.php:532
+msgid "Conflicting Plugins Detected"
+msgstr "Am detectat module care sunt în conflict"
+
+#: app/Common/Admin/Notices/Notices.php:452
+msgid "Invalid Description Format"
+msgstr "Format invalid pentru descriere"
+
+#: app/Common/Admin/Notices/Notices.php:411
+#: app/Common/Admin/Notices/Notices.php:460
+#: app/Common/Admin/Notices/Notices.php:536
+#: app/Common/ImportExport/RankMath/TitleMeta.php:415
+#: app/Common/Migration/GeneralSettings.php:745
+msgid "Fix Now"
+msgstr "Corectează acum"
+
+#: app/Common/Admin/Notices/Notices.php:403
+msgid "Search Engines Blocked"
+msgstr "Motoarele de căutare sunt blocate"
+
+#. Translators: 1 - "WooCommerce".
+#: app/Lite/Admin/Notices/Notices.php:78
+msgid "Advanced %1$s Support"
+msgstr "Suport avansat pentru %1$s"
+
+#: app/Lite/Admin/Connect.php:391
+msgid "The Pro version installed correctly, but it needs to be activated from the Plugins page inside your WordPress admin."
+msgstr "Versiunea Pro a fost instalată corect, dar trebuie activată din pagina Module din administrarea WordPress."
+
+#: app/Lite/Admin/Connect.php:317
+msgid "You are not licensed."
+msgstr "Nu ai licență."
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:287
+msgid "Could not install upgrade. Please download from %1$s and install manually."
+msgstr "Nu am putut instala actualizarea. Te rog să o descarci din %1$s și s-o instalezi manual."
+
+#: app/Lite/Admin/Connect.php:233
+msgid "Pro version is already installed."
+msgstr "Versiunea Pro este deja instalată."
+
+#: app/Lite/Admin/Connect.php:221
+msgid "Please enter your license key to connect."
+msgstr "Te rog introdu cheia de licență pentru a te conecta."
+
+#: app/Lite/Admin/Connect.php:215
+msgid "You are not allowed to install plugins."
+msgstr "Nu ai voie să instalezi module."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Lite/Admin/Connect.php:161
+msgid "%1$s &rsaquo; Connect"
+msgstr "%1$s &rsaquo; Conectare"
+
+#: app/Common/HeadlineAnalyzer/HeadlineAnalyzer.php:204
+msgid "General"
+msgstr "Generale"
+
+#: app/Common/Models/Post.php:431
+msgid "Please add a title first."
+msgstr "Te rog adaugă mai întâi un titlu."
+
+#: app/Common/Models/Post.php:422 app/Common/Models/Post.php:440
+msgid "Please add some content first."
+msgstr "Te rog adaugă mai întâi un conținut."
+
+#. Translators: This refers to the homepage of the site.
+#: app/Common/Breadcrumbs/Breadcrumbs.php:499
+#: app/Common/Options/Options.php:527 app/Common/Schema/Breadcrumb.php:306
+#: app/Common/Views/sitemap/xsl/partials/breadcrumb.php:24
+msgid "Home"
+msgstr "Prima pagină"
+
+#: app/Common/Breadcrumbs/Tags.php:171
+msgid "404 Error Format"
+msgstr "Format eroare 404"
+
+#: app/Common/Breadcrumbs/Tags.php:141 app/Common/Utils/Tags.php:458
+msgid "Separator"
+msgstr "Separator"
+
+#: app/Common/Views/sitemap/html/widget-options.php:128
+msgid "ID"
+msgstr "ID"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Breadcrumbs/Tags.php:129 app/Common/Breadcrumbs/Tags.php:135
+#: app/Common/Utils/Tags.php:336 app/Common/Utils/Tags.php:453
+msgid "%1$s Title"
+msgstr "Titlu %1$s"
+
+#: app/Common/Tools/RobotsTxt.php:372
+msgid "Import and Delete"
+msgstr "Importă și șterge"
+
+#: app/Common/Admin/Admin.php:197
+msgid "Local SEO"
+msgstr "Local SEO"
+
+#: app/Common/Tools/SystemStatus.php:174
+msgid "Server Info"
+msgstr "Informații despre server"
+
+#: app/Common/Admin/Admin.php:183
+msgid "Sitemaps"
+msgstr "Hărți site"
+
+#: app/Common/Admin/Admin.php:179
+msgid "Social Networks"
+msgstr "Rețele sociale"
+
+#: app/Common/Tools/RobotsTxt.php:374
+msgid "Delete"
+msgstr "Șterge"
+
+#: app/Common/Tools/SystemStatus.php:65
+msgid "Timezone"
+msgstr "Fus orar"
+
+#: app/Common/Breadcrumbs/Widget.php:104
+msgid "Title:"
+msgstr "Titlu:"
+
+#: app/Common/HeadlineAnalyzer/HeadlineAnalyzer.php:643
+msgid "media"
+msgstr "media"
+
+#: app/Common/Admin/Admin.php:167
+msgid "Dashboard"
+msgstr "Panou control"
+
+#: app/Common/Admin/Admin.php:175
+msgid "Search Appearance"
+msgstr "Aspect în căutare"
+
+#: app/Common/Admin/Admin.php:213
+msgid "Analytics"
+msgstr "Analitice"
+
+#: app/Common/Admin/Admin.php:205
+msgid "Tools"
+msgstr "Unelte"
+
+#: app/Common/Admin/Admin.php:201
+msgid "SEO Analysis"
+msgstr "Analiză SEO"
+
+#: app/Common/Admin/Admin.php:193
+msgid "Redirects"
+msgstr "Redirecționări"
+
+#: app/Common/Options/Options.php:519
+msgid "default"
+msgstr "implicit"
+
+#: app/Common/Views/sitemap/html/widget-options.php:144
+msgid "Exclude Posts / Pages"
+msgstr "Exclude articole/pagini"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://aioseo.com/"
+msgstr "https://aioseo.com/"
+
+#: app/Common/Admin/SiteHealth.php:329 app/Common/Admin/SiteHealth.php:395
+msgid "Search Page"
+msgstr "Pagină de căutare"
+
+#: app/Common/Admin/SiteHealth.php:328 app/Common/Admin/SiteHealth.php:394
+msgid "Date Archives"
+msgstr "Arhive de date"
+
+#: app/Common/Admin/SiteHealth.php:327 app/Common/Admin/SiteHealth.php:393
+msgid "Author Archives"
+msgstr "Arhive autori"
+
+#: app/Common/Admin/SiteHealth.php:323 app/Common/Admin/SiteHealth.php:389
+msgid "Paginated Content"
+msgstr "Conținut paginat"
+
+#: app/Common/Utils/Tags.php:531
+msgid "Categories"
+msgstr "Categorii"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:94
+msgid "The fields below contain important SEO information from %1$s that may effect your site."
+msgstr "Câmpurile de mai jos conțin informații SEO importante de la %1$s care îți pot afecta site-ul."
+
+#: app/Common/Admin/SiteHealth.php:81
+msgid "Nofollowed content"
+msgstr "Conținut fără urmărire"
+
+#: app/Common/Admin/SiteHealth.php:73
+msgid "Noindexed content"
+msgstr "Conținut fără indexare"
+
+#: app/Common/Admin/SiteHealth.php:283
+msgid "Go to Plugins"
+msgstr "Mergi la Module"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:280
+msgid "An update is available for %1$s. Upgrade to the latest version to receive all the latest features, bug fixes and security improvements."
+msgstr "Este disponibilă o actualizare pentru %1$s. Actualizează la ultima versiune pentru a primi toate funcționalitățile recente, corecțiile de erori și îmbunătățirile de securitate."
+
+#: app/Common/Admin/SiteHealth.php:242
+msgid "Your Person Name and Image are set"
+msgstr "Numele tău și imaginea ta sunt setate, ca persoană"
+
+#: app/Common/Admin/SiteHealth.php:207
+msgid "Your Organization Name and Logo are set"
+msgstr "Numele și logoul organizației tale sunt setate"
+
+#: app/Common/Admin/SiteHealth.php:194
+msgid "Your Organization Name and/or Logo are blank"
+msgstr "Numele și/sau logoul organizației tale sunt goale"
+
+#: app/Common/Admin/SiteHealth.php:164
+msgid "Your Site Title and Tagline are set"
+msgstr "Titlul și sloganul site-ului sunt setate"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:151
+msgid "Your Site Title and/or Tagline are blank. We recommend setting both of these values as %1$s requires these for various features, including our schema markup"
+msgstr "Titlul site-ului și/sau sloganul sunt goale. Îți recomandăm să setezi ambele valori deoarece %1$s are nevoie de ele pentru diverse funcționalități, inclusiv pentru marcajul schemei noastre"
+
+#: app/Common/Admin/SiteHealth.php:148
+msgid "Your Site Title and/or Tagline are blank"
+msgstr "Titlul și sloganul site-ului sunt goale"
+
+#: app/Common/Admin/SiteHealth.php:128
+msgid "Your site appears in search results"
+msgstr "Site-ul tău apare în rezultatele de căutare"
+
+#: app/Common/Admin/SiteHealth.php:121
+msgid "Go to Settings > Reading"
+msgstr "Mergi la Setări > Afișare"
+
+#: app/Common/Admin/SiteHealth.php:119
+msgid "Your site does not appear in search results"
+msgstr "Site-ul tău nu apare în rezultatele de căutare"
+
+#: app/Common/Utils/Tags.php:320
+msgid "The last name of the post author."
+msgstr "Numele autorului articolului."
+
+#: app/Common/Migration/GeneralSettings.php:471
+#: app/Common/Migration/SocialMeta.php:110
+msgid "Learn More"
+msgstr "Află mai multe"
+
+#: app/Common/Admin/Admin.php:509
+msgid "LinkedIn Post Inspector"
+msgstr "Inspector pentru postare LinkdIn"
+
+#: app/Common/Admin/SiteHealth.php:157
+msgid "Go to Settings > General"
+msgstr "Mergi la Setări > Generale"
+
+#: app/Common/Admin/Admin.php:403 app/Common/Admin/Admin.php:678
+msgid "Notifications"
+msgstr "Notificări"
+
+#: app/Common/Views/sitemap/html/widget-options.php:119
+msgid "Publish Date"
+msgstr "Data publicării"
+
+#: app/Common/Views/sitemap/xsl/default.php:102
+#: app/Common/Views/sitemap/xsl/default.php:190
+#: app/Common/Views/sitemap/xsl/default.php:268
+#: app/Common/Views/sitemap/xsl/templates/header.php:37
+msgid "URL"
+msgstr "URL"
+
+#: app/Common/Admin/Notices/Review.php:92
+msgid "Not Really..."
+msgstr "Nu prea..."
+
+#: app/Common/Admin/Notices/Review.php:91
+msgid "Yes I love it"
+msgstr "Da, îmi place"
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:288
+msgid "Plugin installed & activated."
+msgstr "Modulul a fost instalat și activat."
+
+#: app/Common/Admin/Admin.php:313
+msgid "Link has been inserted."
+msgstr "Legătura a fost inserată."
+
+#: app/Common/Admin/Admin.php:311
+msgid "No results found."
+msgstr "Nu am găsit niciun rezultat."
+
+#: app/Common/Admin/Admin.php:309
+msgid "(no title)"
+msgstr "(fără titlu)"
+
+#: app/Common/Admin/Admin.php:308
+msgid "Add Link"
+msgstr "Adaugă o legătură"
+
+#: app/Common/Admin/Admin.php:307
+msgid "Update"
+msgstr "Actualizează"
+
+#: app/Common/Admin/Admin.php:918
+msgid "Give us a 5-star rating!"
+msgstr "Lasă-ne o evaluare de 5 stele!"
+
+#: app/Common/Admin/Admin.php:504
+msgid "Mobile-Friendly Test"
+msgstr "Test pentru dispozitive mobile"
+
+#: app/Common/Admin/Admin.php:499
+msgid "Google Page Speed Test"
+msgstr "Test de viteză a paginii Google"
+
+#: app/Common/Admin/Admin.php:494
+msgid "CSS Validator"
+msgstr "Validator CSS"
+
+#: app/Common/Admin/Admin.php:489
+msgid "HTML Validator"
+msgstr "Validator HTML"
+
+#: app/Common/Admin/Admin.php:484
+msgid "Pinterest Rich Pins Validator"
+msgstr "Validator pinuri detaliate pentru Pinterest"
+
+#: app/Common/Admin/Admin.php:479
+msgid "Facebook Debugger"
+msgstr "Depanator Facebook"
+
+#: app/Common/Admin/Admin.php:474
+msgid "Google Structured Data Test"
+msgstr "Test Date structurate Google"
+
+#: app/Common/Admin/Admin.php:469
+msgid "Check Google Cache"
+msgstr "Verifică cache-ul Google"
+
+#: app/Common/Admin/Admin.php:464
+msgid "Check links to this URL"
+msgstr "Verifică legăturile la acest URL"
+
+#: app/Common/Admin/Admin.php:456
+msgid "Analyze this page"
+msgstr "Analizează această pagină"
+
+#. Translators: This is an action link users can click to open a feature
+#. request.
+#: app/Lite/Main/Filters.php:30
+msgid "Suggest a Feature"
+msgstr "Sugerează o funcționalitate"
+
+#: app/Common/HeadlineAnalyzer/HeadlineAnalyzer.php:596
+msgid "never"
+msgstr "niciodată"
+
+#: app/Common/Utils/Tags.php:285
+msgid "Your image's alt tag attribute."
+msgstr "Atributul tag alt pentru imaginea ta."
+
+#. Translators: 1 - "Pro".
+#: app/Lite/Admin/Notices/Notices.php:84
+msgid "Upgrade to %1$s"
+msgstr "Actualizează la %1$s"
+
+#: app/Common/Admin/Admin.php:217
+msgid "About Us"
+msgstr "Despre noi"
+
+#: app/Common/Admin/Notices/Review.php:102
+msgid "I already did"
+msgstr "Deja am făcut asta"
+
+#: app/Common/Admin/Notices/Review.php:101
+msgid "Nope, maybe later"
+msgstr "Nu, poate mai târziu"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:100
+msgid "Ok, you deserve it"
+msgstr "OK, meriți asta"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:95
+msgid "Give feedback"
+msgstr "Spune-ne impresiile"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Review.php:88
+msgid "Are you enjoying %1$s?"
+msgstr "Îți place %1$s?"
+
+#. Author of the plugin
+msgid "All in One SEO Team"
+msgstr "Echipa All in One SEO"
+
+#: app/Common/Breadcrumbs/Tags.php:197
+msgid "The page number."
+msgstr "Numărul paginii."
+
+#: app/Common/Utils/Tags.php:329
+msgid "Category"
+msgstr "Categorie"
+
+#: app/Common/Breadcrumbs/Tags.php:181
+msgid "Month"
+msgstr "Lună"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:281
+msgid "Page"
+msgstr "Pagină"
+
+#: app/Common/HeadlineAnalyzer/HeadlineAnalyzer.php:633
+msgid "year"
+msgstr "an"
+
+#: app/Common/Admin/Dashboard.php:78
+msgid "Temporarily unable to load feed."
+msgstr "Nu pot încărca temporar fluxul."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:406
+msgid "Warning: %1$s has detected that you are blocking access to search engines. You can change this in Settings > Reading if this was unintended."
+msgstr "Avertizare: %1$s a detectat că blochezi accesul la motoarele de căutare. Poți modifica asta în Setări > Afișare, dacă a fost ceva neintenționat."
+
+#: app/Common/Admin/Notices/Notices.php:413
+#: app/Common/Admin/Notices/Notices.php:462
+#: app/Common/Admin/Notices/Notices.php:538
+#: app/Common/Admin/Notices/Notices.php:593 app/Common/Api/Wizard.php:271
+#: app/Common/ImportExport/RankMath/TitleMeta.php:417
+#: app/Common/Migration/GeneralSettings.php:747
+#: app/Common/Migration/Helpers.php:168
+msgid "Remind Me Later"
+msgstr "Amintește-mi mai târziu"
+
+#: app/Common/Admin/Notices/Review.php:96
+msgid "No thanks"
+msgstr "Nu, mulțumesc"
+
+#. Translators: 1 - "WooCommerce", 2 - The plugin short name ("AIOSEO").
+#: app/Lite/Admin/Notices/Notices.php:80
+msgid "We have detected you are running %1$s. Upgrade to %2$s to unlock our advanced eCommerce SEO features, including SEO for Product Categories and more."
+msgstr "Am detectat că rulezi %1$s. Actualizează la %2$s pentru a debloca funcționalitățile noastre SEO avansate pentru comerțul electronic, inclusiv SEO pentru categorii de produse și altele."
+
+#: app/Common/Views/sitemap/html/widget-options.php:158
+msgid "Exclude Terms"
+msgstr "Exclude termeni"
+
+#. Translators: 1 - The plugin name ("All in One SEO).
+#: app/Common/Api/Tools.php:116
+msgid "%1$s Debug Info"
+msgstr "Informații despre depanarea %1$s"
+
+#: app/Common/Tools/SystemStatus.php:337
+msgid "Inactive Plugins"
+msgstr "Module inactive"
+
+#: app/Common/Tools/SystemStatus.php:305
+msgid "Active Plugins"
+msgstr "Module active"
+
+#: app/Common/Utils/Tags.php:476 app/Common/Utils/Tags.php:488
+msgid "Your site title."
+msgstr "Titlul site-ului tău."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:52
+msgid "sitemaps"
+msgstr "hărți site"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:45
+msgid "This sitemap index contains"
+msgstr "Acest index de hărți site conține"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:40
+msgid "URLs"
+msgstr "URL-uri"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:33
+msgid "This sitemap contains"
+msgstr "Această hartă site conține"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+msgstr "aceasta este o hartă site XML, menită să fie consumată de motoarele de căutare, cum ar fi Google sau Bing."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "Generated by"
+msgstr "Generată de"
+
+#: app/Common/Tools/SystemStatus.php:97
+msgid "Search Engine Visibility"
+msgstr "Vizibilitate pentru motoare de căutare"
+
+#: app/Common/Tools/SystemStatus.php:57
+msgid "Site Language"
+msgstr "Limbă site"
+
+#: app/Common/Tools/SystemStatus.php:53 app/Common/Utils/Tags.php:475
+#: app/Common/Utils/Tags.php:487
+msgid "Site Title"
+msgstr "Titlu site"
+
+#: app/Common/Migration/SocialMeta.php:75
+msgid "Use Content for Autogenerated Descriptions"
+msgstr "Folosește conținutul pentru descrieri generate automat"
+
+#: app/Common/Admin/Dashboard.php:33
+msgid "SEO News"
+msgstr "SEO News"
+
+#. Description of the plugin
+msgid "SEO for WordPress. Features like XML Sitemaps, SEO for custom post types, SEO for blogs, business sites, ecommerce sites, and much more. More than 80 million downloads since 2007."
+msgstr "SEO pentru WordPress. Are funcționalități, cum ar fi hărți site XML, SEO pentru tipuri de articol personalizate, SEO pentru bloguri, site-uri de afaceri sau site-uri ecommerce și multe altele. Mai mult de 80 de milioane de descărcări din anul 2007."
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:42 app/Lite/Admin/Admin.php:68
+#: app/Lite/Main/Filters.php:63
+msgid "Upgrade to Pro"
+msgstr "Actualizează la Pro"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:58
+msgid "Documentation"
+msgstr "Documentație"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:562 app/Lite/Main/Filters.php:48
+msgid "SEO Settings"
+msgstr "Setări SEO"
+
+#: app/Common/Sitemap/Output.php:32
+msgid "dynamically"
+msgstr "dinamic"
+
+#: app/Common/Sitemap/Sitemap.php:491
+msgid "Additional Pages"
+msgstr "Pagini suplimentare"
+
+#: app/Common/Views/sitemap/xsl/default.php:293
+msgid "Change Frequency"
+msgstr "Schimbă frecvența"
+
+#: app/Common/Views/sitemap/xsl/default.php:306
+msgid "Priority"
+msgstr "Prioritate"
+
+#: app/Common/Views/sitemap/html/widget-options.php:92
+msgid "Taxonomies"
+msgstr "Taxonomii"
+
+#: app/Common/Views/sitemap/html/widget-options.php:69
+msgid "Post Types"
+msgstr "Tipuri de articol"
+
+#: app/Common/Tools/SystemStatus.php:243
+msgid "Active Theme"
+msgstr "Temă activă"
+
+#: app/Common/Tools/SystemStatus.php:81
+msgid "Multisite"
+msgstr "Multi-site"
+
+#: app/Common/Tools/SystemStatus.php:69
+msgid "Home URL"
+msgstr "URL prima pagină"
+
+#: app/Common/Tools/SystemStatus.php:73
+msgid "Site URL"
+msgstr "URL site"
+
+#: app/Common/Tools/SystemStatus.php:225
+msgid "PHP XML Support"
+msgstr "Suport PHP XML"
+
+#: app/Common/Tools/SystemStatus.php:221
+msgid "PHP IPTC Support"
+msgstr "Suport PHP IPTC"
+
+#: app/Common/Tools/SystemStatus.php:217
+msgid "PHP Exif Support"
+msgstr "Suport PHP Exif"
+
+#: app/Common/Tools/SystemStatus.php:213
+msgid "PHP Max Script Execution Time"
+msgstr "Timp maxim de execuție pentru scriptul PHP"
+
+#: app/Common/Tools/SystemStatus.php:209
+msgid "PHP Max Post Size"
+msgstr "Dimensiune maximă articol PHP"
+
+#: app/Common/Tools/SystemStatus.php:205
+msgid "PHP Max Upload Size"
+msgstr "Dimensiune maximă de încărcare PHP"
+
+#: app/Common/Tools/SystemStatus.php:201
+msgid "PHP Memory Limit"
+msgstr "Limită de memorie PHP"
+
+#: app/Common/Tools/SystemStatus.php:197
+msgid "PHP Version"
+msgstr "Versiune PHP"
+
+#: app/Common/Tools/SystemStatus.php:189
+msgid "MySQL Version"
+msgstr "Versiune MySQL"
+
+#: app/Common/Tools/SystemStatus.php:185
+msgid "Memory Usage"
+msgstr "Folosirea memoriei"
+
+#: app/Common/Tools/SystemStatus.php:177
+msgid "Operating System"
+msgstr "Sistem de operare"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "Yes"
+msgstr "Da"
+
+#: app/Common/Tools/SystemStatus.php:186
+msgid "N/A"
+msgstr "Nu se aplică"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Not set"
+msgstr "Nesetat"
+
+#: app/Common/Tools/SystemStatus.php:78
+msgid "Default"
+msgstr "Implicit"
+
+#: app/Common/Utils/Tags.php:493
+msgid "Site Description"
+msgstr "Descriere site"
+
+#: app/Common/Migration/SocialMeta.php:79
+msgid "Run Shortcodes in Description"
+msgstr "Rulează scurt-codurile în descriere"
+
+#: app/Common/Migration/SocialMeta.php:83
+msgid "Run Shortcodes in Title"
+msgstr "Rulează scurt-codurile în titlu"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "No"
+msgstr "Nu"
+
+#: app/Common/Admin/Admin.php:209
+msgid "Feature Manager"
+msgstr "Manager funcționalități"
+
+#: app/Common/Tools/SystemStatus.php:49
+msgid "Version"
+msgstr "Versiune"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:53
+msgid "Support"
+msgstr "Suport"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: app/Common/Admin/Admin.php:543
+msgid "Edit SEO"
+msgstr "Editează SEO"
+
+#: app/Common/Admin/Admin.php:395 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "SEO"
+
+#: app/Common/Utils/Tags.php:521
+msgid "Description"
+msgstr "Descriere"
+
+#: app/Common/Admin/Admin.php:310 app/Common/Models/Post.php:430
+#: app/Common/Views/sitemap/html/widget-options.php:8
+msgid "Title"
+msgstr "Titlu"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Disabled"
+msgstr "Dezactivat"
+
+#: app/Common/Admin/Admin.php:171
+msgid "General Settings"
+msgstr "Setări generale"
+
+#. Translators: 1 - The IP address. 2 - The referer.
+#: app/Common/Tools/BadBotBlocker.php:237
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "Bot blocat cu IP %1$s -- referință similară %2$s găsită în lista de blocare."
+
+#. Translators: 1 - The IP address. 2 - The user agent.
+#: app/Common/Tools/BadBotBlocker.php:228
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "Bot blocat cu IP %1$s -- agent utilizator similar %2$s găsit în lista de blocare."
